@@ -1,4 +1,4 @@
-x = +x;
+let x = +x;
 console.log (typeof x);
 
 x = '123';
@@ -12,5 +12,5 @@ else if (x == false) {
 }
 else {
    console.log("Тип Х не определен");
-   }
+}
 

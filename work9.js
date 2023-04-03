@@ -16,5 +16,5 @@ function arrElem(){
             }
         }
     }
-    console.log('В массиве: ${numbercount} цифр, ${zerocount} нулей, ${evencount} чётных, ${oddcount} нечётных!');
+    console.log(`В массиве: ${numbercount} цифр, ${zerocount} нулей, ${evencount} чётных, ${oddcount} нечётных!`);
 }
